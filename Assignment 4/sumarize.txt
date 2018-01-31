@@ -1,0 +1,12 @@
+
+ Number of users Collected:251
+ Number of messages Collected:297
+ 
+  Total number of communities discovered=3
+  Average number of user per community =849.0
+ Total number of positive tweets:116
+ Example of a positive tweet is 
+ RT @ManaByte: I wonder how mad people will be with an extended cut of #JusticeLeague on Blu-Ray that just extends the current Snyder/Whedon…
+ Total number of negative tweets:184
+ Example of a negative tweet is 
+ RT @ManaByte: Funny how the people who rushed and recorded YouTube videos last weekend predicting a huge #JusticeLeague crash this weekend…
